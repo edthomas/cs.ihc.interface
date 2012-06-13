@@ -1,0 +1,26 @@
+Notes
+-----
+
+There is one Makefile (hack from SilentMakefile) which does not need
+any setup.
+
+Using your own Makefile
+-----------------------
+
+In order to run LaTeX, you need to add "data" folder into the search path of
+pdflatex.  If you use Makefile's, add this line:
+
+	export TEXINPUTS=$(shell kpsepath tex):$(shell pwd)/data/
+
+Also the graphs are plotted using `gnuplot`.  You need to enable the execution
+of shell commands by passing `-shell-escape` to pdflatex:
+
+	pdflatex -shell-escape
+
+
+Warning
+-------
+
+gnuplot created files with .table extension.  On the repository's Makefile
+all files matching *.table will be deleted on cleaning section.
+
