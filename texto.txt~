@@ -37,7 +37,16 @@ torna restrito para usuários mais exeprientes se comparado a sistemas de
 interação por comandos. Essas restrições ocorrem devido a inconsistências e
 ambiguidades encontradas na linguagem natural, incapazes de ser resolvidas pelo
 sistema.
-	
+	Na interação por menus, o sistema oferece algumas opções, então o usuário
+seleciona a que melhor lhe agrada em busca de seu objetivo. O objetivo do
+designer de menu é criar uma estrutura legível que guie o usuário em sua
+atividade. Para qualquer tipo de menu, deve-se escolher a ordem de suas opções
+de forma que melhor se encaixe nas necessidades dos usuários. Muitas vezes, as
+opções são ordenadas de forma alfabética, porém, também podem ser estruturadas
+cronológicamente, por itens mais utilizados, mais recentes e mais importantes.
+	Na interação por formulários, o sistema fornece vários campos ao usuário que
+devem ser peenchidos com seus dados. A disposição dos campos devem seguir uma
+lógica, onde campos relacionados devem estar próximos. 
 
 
 
