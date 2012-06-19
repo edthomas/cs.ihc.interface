@@ -19,10 +19,10 @@ Guarapuava -- PR -- Brasil -- Telefone: (42) 3621-1000\\
     pdffitwindow=false,     % window fit to page when opened
     pdfstartview={FitH},    % fits the width of the page to the window
     pdftitle={Protótipo do trabalho de IHC},    % title
-    pdfauthor={Paulo Urio},     % author
-    pdfsubject={Pizza},   % subject of the document
-    pdfcreator={Paulo Urio},   % creator of the document
-    pdfproducer={Paulo Urio}, % producer of the document
+    pdfauthor={Eduardo Feliczaki},     % author
+    pdfsubject={Interface},   % subject of the document
+    pdfcreator={Eduardo Feliczaki},   % creator of the document
+    pdfproducer={Eduardo Feliczaki}, % producer of the document
     pdfkeywords={pizza} {massa} {recheio} {sabor}, % list of keywords
     pdfnewwindow=true,      % links in new window
     colorlinks=true,       % false: boxed links; true: colored links

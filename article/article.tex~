@@ -11,6 +11,7 @@
 \usepackage{textcomp}
 \usepackage{verbatim}
 \usepackage{bold-extra}
+\usepackage{epstopdf}
 
 \usepackage{textcomp} % better trademark and registered symbols
 \usepackage{tipa} % IPA letters
@@ -31,7 +32,6 @@
 \input{tex/resumo}
 \input{tex/introducao}
 \input{tex/desenvolvimento}
-%%\input{tex/results}
 \input{tex/consideracoes}
 \input{tex/references}
 
