@@ -44,7 +44,26 @@ atividade. Para qualquer tipo de menu, deve-se escolher a ordem de suas opções
 de forma que melhor se encaixe nas necessidades dos usuários. Muitas vezes, as
 opções são ordenadas de forma alfabética, porém, também podem ser estruturadas
 cronológicamente, por itens mais utilizados, mais recentes e mais importantes.
-	
+	Na interação por formulários, o sistema fornece vários campos ao usuário que
+devem ser peenchidos com seus dados. A disposição dos campos devem seguir uma
+lógica, onde campos relacionados devem estar próximos.
+	O estilo de interação por manipulação direta foi proposta para aproximar a
+interação da manipulação dos objetos do mundo real. Para isso, é necessário que
+os objetos possuam representações visuais na interface e que as manipulações
+possam ser mapeadas em ações do mause, como clique, duplo clique, clicar e
+arrastar, etc... Neste tipo de interação, as ações devem ser rápidas e
+reversíveis, assim como os resultados das ações que devem ser imediatamente
+visualizados. Os benefícios desse estilo de interação sobre a linguagem de
+comando são: redução da taxa de erros, aprendizado mais rápido e motivação para
+explorar o sistema. Porém, a interação por manipulação direta é um pouco
+restrita para usuários com dificuldades visuais ou motoras.
+	Um sistema, frequentemente utiliza vários estilos de interação em diferentes
+partes da interface, como no caso do WIMP, que é adotado nos ambientes baseados
+em janelas, visando aproveitar os benefícios e contornar as restrições impostas
+nos outros estilos.
+	Atualmente, vários outros estilos estão sendo criados, como a interação em 3D,
+com realidade virtual e aumentada, interação com caneta, por toque e gestos.
+
 
 
 
